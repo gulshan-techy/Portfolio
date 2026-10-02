@@ -95,9 +95,9 @@ export default function Hero() {
         >
           <p className="text-white/60 inline">I&apos;m </p>
           <span className="bg-gradient-to-br bg-clip-text text-transparent from-[#7CC0C4] via-[#548FBA] to-[#3C84C7]">
-          your_username
+          Gulshan Kumar
           </span>
-          <p>a DevOps Engineer</p>
+          <p>Cloud & DevOps Engineer</p>
         </motion.h1>
 
         <motion.p
@@ -105,7 +105,7 @@ export default function Hero() {
           animate={animateIn2}
           className="text-white/40  text-xl smm:text-2xl lg:text-3xl xl:text-4xl mt-3 smm:mt-6 "
         >
-          currently focused on scaling infra and reducing the workload.
+          Building reliable cloud infrastructure, automation and deployment workflows with AWS, Linux and DevOps tools.
         </motion.p>
       </div>
 
