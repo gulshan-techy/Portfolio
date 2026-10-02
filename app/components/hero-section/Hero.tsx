@@ -97,7 +97,7 @@ export default function Hero() {
           <span className="bg-gradient-to-br bg-clip-text text-transparent from-[#7CC0C4] via-[#548FBA] to-[#3C84C7]">
           Gulshan Kumar
           </span>
-          <p>Cloud & DevOps Engineer</p>
+          <p>AWS Certified Solution Architect - Associate Cloud & DevOps Engineer</p>
         </motion.h1>
 
         <motion.p
